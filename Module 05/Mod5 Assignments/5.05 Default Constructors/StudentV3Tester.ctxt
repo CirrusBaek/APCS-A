@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StudentV3Tester
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ calculate\ the\ length\ of\ a\ given\r\nstudent's\ name\ and\ convert\ their\ original\ height(ft)\ to\ inches\ using\ an\ object\ class\ and\ methods.\ \r\n\r\n\ @author\ (Lakshitha\ Selvamani)\r\n\ @version\ (10/16/22)\r\n
+comment1.params=name\ nameLength\ heightft\ heightInch
+comment1.target=void\ print(java.lang.String,\ int,\ double,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

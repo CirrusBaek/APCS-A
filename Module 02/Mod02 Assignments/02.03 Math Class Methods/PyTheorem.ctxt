@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PyTheorem
+comment0.text=\r\n\ The\ goal\ of\ this\ program\ is\ to\ generate\ a\ random\ number\ from\ 5-23\ for\ 2\ sides\ of\ the\ triangle\ using\ the\ math.random\ class.\r\n\ I\ am\ also\ supposed\ to\ use\ the\ math\ class\ to\ calculate\ the\ value\ of\ the\ hypotenuse.\r\n\r\n\ @author\ (Lakshitha\ Selvamani)\r\n\ @version\ (9/4/22)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

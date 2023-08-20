@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlanetGravity
+comment0.text=\r\n\ The\ purpose\ of\ this\ project\ is\ to\ calculate\ the\ surface\ gravity\ for\ any\ planet\ by\ using\ methods\ to\ display\ the\ info\ and\r\ncalculate\ the\ surface\ gravity.\r\n\r\n\ @author\ Lakshitha\ Selvamani\r\n\ @version\ 10/10/22\r\n
+comment1.params=diameterkm\ masskg
+comment1.target=double\ planetGravity(double,\ double)
+comment2.params=name\ mass\ diameter\ planetGravity
+comment2.target=void\ layout(java.lang.String,\ double,\ double,\ double)
+comment3.params=
+comment3.target=void\ header()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

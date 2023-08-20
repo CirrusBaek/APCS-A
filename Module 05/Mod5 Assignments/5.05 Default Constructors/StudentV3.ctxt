@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StudentV3
+comment0.text=\r\n\ This\ is\ the\ implementation\ class\ which\ contains\ the\ methods\ to\ calculate\ height\ in\ inches\ and\ name\ length.\r\n\r\n\ @author\ (Lakshitha\ Selvamani)\r\n\ @version\ (10/16/22)\r\n
+comment1.params=
+comment1.target=StudentV3()
+comment2.params=studFeet
+comment2.target=double\ convertInches(double)
+comment3.params=name
+comment3.target=int\ findLength(java.lang.String)
+numComments=4

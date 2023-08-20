@@ -1,0 +1,22 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:6.02 Formatting Output
+PURPOSE OF PROJECT: The purpose of this project is to display the average
+ temperature and precipitation of a selected city/state by using arrays.
+VERSION or DATE:1/15/23
+AUTHORS: 
+
+                                    PMR
+--------------------------------------------------------------------
+<+s> I found it easy to use for loops to transverse through the arrays for the precipitation,month, and temperature data.
+The object oriented programming aspect of it was also similar to previous projects and thus,quite simple.
+<-s> I struggled with the printf formatting statements because it was a bit confusing to get the right format I wanted. However, I think 
+I have a better understanding of printf now. (FYI, I completely forgot to download the templates for this project and coded everything
+myself)
+------------------------------------------------------------------------
+In the future, I will continue to practice printf and object-oriented programming in all of my projects.
+

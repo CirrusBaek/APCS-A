@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalculationsV4
+comment0.text=\ Title\:\ 1.08\ Arithmetic\ Calculations\r\n\ The\ purpose\ of\ this\ program\ is\ to\ display\ arithmetic\ expressions\ and\ their\ answers\ through\ initialized\ int\ variables.\r\n\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

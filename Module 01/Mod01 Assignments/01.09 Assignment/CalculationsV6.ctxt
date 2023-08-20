@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalculationsV6
+comment0.text=\ Title\:\ 1.09\ Assignment\r\n\ The\ purpose\ of\ this\ project\ is\ to\ display\ arithmetic\ expressions\ through\ println\ statements\ by\ using\ double\ \r\nand\ integer\ variables\ to\ store\ the\ numbers.\r\n\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
