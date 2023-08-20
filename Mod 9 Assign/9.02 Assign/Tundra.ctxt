@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Tundra
+comment0.text=\r\n\ @\ this\ is\ the\ tundra\ terrain\r\n\ @author\ (Lakshitha\ Selvamani)\r\n\ @version\ (3/1623)\r\n
+comment1.params=l\ w\ m\ t\ s
+comment1.target=Tundra(int,\ int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=double\ getSnow()
+numComments=3

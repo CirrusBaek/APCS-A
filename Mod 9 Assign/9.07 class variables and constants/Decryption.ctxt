@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Decryption
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Encryption\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s\ m
+comment1.target=Decryption(int,\ java.lang.String)
+comment2.params=s
+comment2.target=Decryption(int)
+comment3.params=
+comment3.target=void\ getString()
+comment4.params=
+comment4.target=java.lang.String\ decryptData()
+comment5.params=
+comment5.target=int\ getShift()
+comment6.params=
+comment6.target=void\ printDecryptedMessage()
+comment7.params=
+comment7.target=void\ printAlphabet()
+numComments=8

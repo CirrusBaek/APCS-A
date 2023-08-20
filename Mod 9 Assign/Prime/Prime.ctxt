@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Prime
+comment0.text=\r\n\ client\ class\ for\ primetester\r\n\r\n\ @author\ Lakshitha\ Selvamani\r\n\ @version\ 3/29/23\r\n
+comment1.params=l\ u
+comment1.target=Prime(int,\ int)
+comment2.params=
+comment2.target=int\ getupperLimit()
+comment3.params=
+comment3.target=int\ getlowerLimit()
+comment4.params=number
+comment4.target=boolean\ isPrime(int)
+comment5.params=
+comment5.target=void\ printNumbersAndCalcForPrime()
+numComments=6

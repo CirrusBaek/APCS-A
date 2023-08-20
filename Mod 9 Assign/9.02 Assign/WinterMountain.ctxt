@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WinterMountain
+comment0.text=\r\n\ Winter\ mountain\ terrain\r\n\r\n\ @author\ (Lakshitha\ Selvamani)\r\n\ @version\ (3/16/23)\r\n
+comment1.params=l\ w\ m\ t
+comment1.target=WinterMountain(int,\ int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getTemp()
+numComments=3
