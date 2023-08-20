@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MovieTester
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ sort\ an\ array\ of\ movies\r\n\ based\ on\ title,\ studio,\ and\ year(ascending\ or\ descending\ order)\ using\ selection\ sort\ methods.\r\n\r\n\ @author\ (Lakshitha\ Selvamani)\r\n\ @version\ (2/16/23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=void\ print(Movie[])
+comment3.params=source\ sort
+comment3.target=void\ sortYear(Movie[],\ int)
+comment4.params=source\ sort
+comment4.target=void\ sortTitle(Movie[],\ int)
+comment5.params=source\ sort
+comment5.target=void\ sortStudio(Movie[],\ int)
+numComments=6

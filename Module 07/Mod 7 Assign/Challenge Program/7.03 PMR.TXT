@@ -1,0 +1,22 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: 7.03 Challenge Program
+PURPOSE OF PROJECT:to scan hurricane data from a txt file and store it in an arraylist based 
+ *on the year range prompted from the user.
+VERSION or DATE:2/5/23
+AUTHORS:
+
+
+---------------------------------------PMR----------------------------------------
+<+s> I found it easy to use the Integer.Max and Min constants to find the minimum and
+maxiumum values of my data. I also was successful in creating a hurricane Arraylist in a 
+for-loop and adding objects only during the correct year range prompted from the user.
+<+s> I struggled a bit with the formatting and printf statements. It took a while to get the right 
+output. I also used a lot of nested if-statements and found it easy to get lost with what I'm doing.
+---------------------------------------------------------------------------------
+Overall, this assignment has significantly tested my oop skills in a good way, and I really enjoyed the simple,
+yet complex aspects of it. I will try to become more effiecent in my coding in future assignments.

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ElectionTesterV6
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=data\ find\ replace
+comment10.target=void\ changeVotes(java.util.ArrayList,\ int,\ int)
+comment11.params=data\ findName\ replaceName\ findVotes\ replaceVotes
+comment11.target=void\ changeNameVotes(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=data\ location\ addName\ addVotes
+comment2.target=void\ insertCandidatePosition(java.util.ArrayList,\ int,\ java.lang.String,\ int)
+comment3.params=data\ find\ addName\ addVotes
+comment3.target=void\ insertCandidateName(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=data\ location
+comment4.target=void\ deleteByLocation(java.util.ArrayList,\ int)
+comment5.params=data\ findName
+comment5.target=void\ deleteByName(java.util.ArrayList,\ java.lang.String)
+comment6.params=data
+comment6.target=void\ printVotes(java.util.ArrayList)
+comment7.params=data
+comment7.target=int\ getVoteTotal(java.util.ArrayList)
+comment8.params=data
+comment8.target=void\ printData(java.util.ArrayList)
+comment9.params=data\ find\ replace
+comment9.target=void\ changeName(java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+numComments=12

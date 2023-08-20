@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CatapultTester
+comment0.text=\r\n\ purpose\:calculates\ the\ range\ of\ a\ projectile\ with\ a\ given\ angle\ and\ velocity.\r\n\r\n\ @author\ Lakshitha\ Selvamani\r\n\ @version\ 3/8/23\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

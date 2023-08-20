@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:7.07 Assignment
+PURPOSE OF PROJECT:The purpose of this program is to print out the number of candidates and their corresponding
+ votes using an arraylist and arrays. This program also uses replacement methods to replace names and vote counts along with 
+ insertion and deletion methods.
+VERSION or DATE:2/10/23
+AUTHORS:
+
+-------------------------------------PMR--------------------------------------------
+<+s> I was able to use arrayLists and arrays to store my candidate data. I found that using insertion and deletion
+methods were simple, and only required a bit of transversal and if statements. However, the null elements in the array
+posed a problem, and had to be checked with logical operators.
+
+<-s> I had no difficulties with this program.
+---------------------------------------------------------------------------------------
+I will continue to practice transversing,insertion, and deletion methods in arrays/arraylists.

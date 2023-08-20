@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ElectionTesterV5
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ print\ out\ the\ number\ of\ candidates\ and\ their\ corresponding\r\n\ votes\ using\ an\ array.\ This\ program\ also\ uses\ replacement\ methods\ to\ replace\ names\ and\ vote\ counts\ along\ with\ \r\n\ insertion\ and\ deletion\ methods.\r\n\ @author\ (Lakshitha\ Selvamani)\r\n\ @version\ (2/10/23)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=candidate\ find\ replace
+comment10.target=void\ changeVotes(Candidate[],\ int,\ int)
+comment11.params=candidate\ findName\ replaceName\ findVotes\ replaceVotes
+comment11.target=void\ changeNameVotes(Candidate[],\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=candidate\ location\ addName\ addVotes
+comment2.target=void\ insertCandidatePosition(Candidate[],\ int,\ java.lang.String,\ int)
+comment3.params=candidate\ findName\ addName\ addVotes
+comment3.target=void\ insertCandidateName(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=candidate\ location
+comment4.target=void\ deleteByLoc(Candidate[],\ int)
+comment5.params=candidate\ name
+comment5.target=void\ deleteByName(Candidate[],\ java.lang.String)
+comment6.params=candidate
+comment6.target=void\ printVotes(Candidate[])
+comment7.params=candidate
+comment7.target=int\ getVoteTotal(Candidate[])
+comment8.params=candidate
+comment8.target=void\ printData(Candidate[])
+comment9.params=candidate\ find\ replace
+comment9.target=void\ changeName(Candidate[],\ java.lang.String,\ java.lang.String)
+numComments=12
